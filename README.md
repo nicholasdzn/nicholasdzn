@@ -1,4 +1,4 @@
-### º Olá eu sou o Nicholas e estou cursando Ciências da Computação atualmente ✔
+### º Olá eu sou o Nicholas 😎
 
 <div align="center">
   <a href="https://github.com/nicholasdzn">
