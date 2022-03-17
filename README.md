@@ -1,4 +1,4 @@
-### º Olá eu sou o Nicholas 😎
+## º Olá eu sou o Nicholas 😎
 
 <div align="center">
   <a href="https://github.com/nicholasdzn">
@@ -16,7 +16,7 @@
   ##
   
 <div style="display: inline_block" align ="center"><br>
-  <img align="center" height="300" width="320" src="https://i.pinimg.com/474x/09/b8/b5/09b8b5a660f4c09435277176eec6922f.jpg">
+  <img align="center" height="300" width="300" src="https://i.pinimg.com/474x/09/b8/b5/09b8b5a660f4c09435277176eec6922f.jpg">
 </div>
  
   ## "Se você busca muito alguma coisa, é certo que deixará outras no meio do caminho."
