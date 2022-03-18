@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/nicholasdzn">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nicholasdzn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://i.pinimg.com/474x/09/b8/b5/09b8b5a660f4c09435277176eec6922f.jpg"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholasdzn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://i.pinimg.com/474x/09/b8/b5/09b8b5a660f4c09435277176eec6922f.jpg"/>  
 </div>
   
 <div style="display: inline_block" align="center"><br>
